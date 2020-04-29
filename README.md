@@ -1,1 +1,1 @@
-# Projecto de Tecnologia e Aplicações - COVID-19 em Portugal
+# Projecto de Tecnologia e Aplicações: COVID-19 em Portugal
