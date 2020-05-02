@@ -1,5 +1,7 @@
 # Projecto de Tecnologia e Aplicações: COVID-19 
 
+Trabalho de Cartografia: https://github.com/marianallc/TAprojectCOVID19/raw/master/covid19.ipynb
+
 ![alt text](https://github.com/marianallc/TAprojectCOVID19/raw/master/mapaMundo.gif "mapaMundo")
 
 
